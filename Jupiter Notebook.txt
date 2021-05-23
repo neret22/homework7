@@ -25,3 +25,9 @@ Do you have any other Ideas how can I fix these issue?
 
 \f0\fs24 \cf0 \kerning1\expnd0\expndtw0 \
 }
+
+How should I work with token? Because other option is to enter password or token
+
+
+
+Import pandas as pd
